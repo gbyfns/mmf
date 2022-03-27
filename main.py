@@ -1,16 +1,28 @@
-# This is a sample Python script.
+# import statements
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+# functions go here
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+# Main Routine
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# Set up dictionaries / lists needed to hold data
+
+# Ask user if they have used the program before & show instructions if necessary
+
+# Loop to get ticket details
+
+    # Get name (can't be blank)
+
+    # Get age (between 12 and 130)
+
+    # Calculate ticket price
+
+    # Loop to ask for snacks
+
+    # Calculate snack price
+
+    # Ask for payment method (and apply surcharge if necessary
+
+# Calculate Total sales and profit
+
+# Output data to text file
