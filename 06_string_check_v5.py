@@ -102,7 +102,7 @@ if check_snack == "Yes":
         # check that snack is not the exit code before adding
         if snack_choice != "xxx" and snack_choice != "invalid choice":
             snack_order.append(amount_snack)
-            print(amount_snack)
+
 
 # show snack orders
 print()
